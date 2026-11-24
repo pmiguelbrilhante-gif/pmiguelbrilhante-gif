@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, eu sou o Paulo Miguel
 
-<!--
-**pmiguelbrilhante-gif/pmiguelbrilhante-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado na criação de aplicações **Mobile** e **Desktop** funcionais, com atenção à experiência do usuário, segurança de dados e arquitetura limpa. Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias & Ferramentas
+* **Mobile:** Framework Flutter com a linguagem Dart
+* **Desktop:** Python
+* **Backend:** Firebase, SQLite, MySQL
+* **Versionamento:** Git, GitHub
+* **Ambiente:** VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+* **[FinanceCash](https://github.com/pmiguelbrilhante-gif/FinanceCash):** Aplicativo Android de gestão financeira pessoal com leitura automática de notificações bancárias, controle de contas fixas e sincronização em nuvem.
+* **[Friday](https://github.com/pmiguelbrilhante-gif/Friday):** Assistente virtual para Android com reconhecimento de voz e comandos inteligentes para agilizar tarefas do dia a dia.
+* **[TagCash](https://github.com/pmiguelbrilhante-gif/TagCash):** Solução para compartilhamento rápido de links de arquivos e pastas via NFC.
+
+### 📫 Contato
+* **E-mail:** pmiguelbrilhante@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/paulo-m-005a7722a/
