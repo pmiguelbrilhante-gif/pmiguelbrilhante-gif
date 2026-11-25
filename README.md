@@ -12,7 +12,7 @@ Desenvolvedor focado na criação de aplicações **Mobile** e **Desktop** funci
 ### Projetos
 * **[FinanceCash](https://github.com/pmiguelbrilhante-gif/FinanceCash):** Aplicativo Android de gestão financeira pessoal com leitura automática de notificações bancárias, controle de contas fixas e sincronização em nuvem.
 * **[Friday](https://github.com/pmiguelbrilhante-gif/Friday):** Assistente virtual para Android com reconhecimento de voz e comandos inteligentes para agilizar tarefas do dia a dia.
-* **[TagCash](https://github.com/pmiguelbrilhante-gif/TagCash):** Solução para compartilhamento rápido de links de arquivos e pastas via NFC.
+* **[TagLig](https://github.com/pmiguelbrilhante-gif/TagCash):** Solução para compartilhamento rápido de links de arquivos e pastas via NFC.
 * **AlicerceRM:** Sistema ERP desenvolvido para a área da construção civil (Construtora e\ou escritório de engenharia). Centralizando todas as operações da empresa.
 
 ### Contato
